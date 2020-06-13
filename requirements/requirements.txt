@@ -1,0 +1,5 @@
+matplotlib
+PyInquirer
+sklearn
+seaborn
+numpy
