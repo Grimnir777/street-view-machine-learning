@@ -2,7 +2,7 @@
 Ce problème consiste à appliquer des algorithmes de machine learning sur un set de données (images) de numéros de portes.
 
 Le but de l'exercice va être aussi de trouver les meilleures paramétrisations pour chaque algorithme.
-Ci-dessous vous pouvez trouver les meilleurs résultats que j'ai réussi à trouver.
+Ci-dessous vous pouvez voir les meilleurs résultats que j'ai réussi à trouver.
 
 Vous retrouverez dans le dossier images les résultats des exécutions de mon programme avec les différents algorithmes.
 
@@ -35,7 +35,7 @@ python3 main.py
 
 - Le mode 'RUN'
 
-Celui-ci va lancer une seule itération de l'algoritme choisi avec la meilleur configuration  
+Celui-ci va lancer une seule itération de l'algoritme choisi avec la meilleure configuration.  
 Aussi, à la fin de l'exécution la matrice de confusion sera affichée.
 
 - Le mode 'COMPARAISON' 
