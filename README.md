@@ -4,7 +4,9 @@ Ce problème consiste à appliquer des algorithmes de machine learning sur un se
 Le but de l'exercice va être aussi de trouver les meilleures paramétrisations pour chaque algorithme.
 Ci-dessous vous pouvez trouver les meilleurs résultats que j'ai réussi à trouver.
 
-Plus d'informations [ici](http://ufldl.stanford.edu/housenumbers/)
+Vous retrouverez dans le dossier images les résultats des exécutions de mon programme avec les différents algorithmes.
+
+Plus d'informations sur le projet [ici](http://ufldl.stanford.edu/housenumbers/)
 
 
 # Algorithmes testés, résultats et temps d'exécutions
